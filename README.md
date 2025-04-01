@@ -1,7 +1,7 @@
-# Shelly 2PM fan automation
+# Shelly Plus 2PM fan automation
 
 ## Description
-This script automates fan control using a [Shelly 2PM](https://bdc.shelly.cloud/base-de-connaissances/shelly-plus-2pm) device based on the switch state. It includes a timer mechanism that automatically turns off the fan after a defined duration.
+This script automates fan control using a [Shelly Plus 2PM](https://bdc.shelly.cloud/base-de-connaissances/shelly-plus-2pm) device based on the switch state. It includes a timer mechanism that automatically turns off the fan after a defined duration.
 
 ## Features
 - Automatic fan activation when the light switch is turned on.
