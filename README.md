@@ -18,7 +18,7 @@ This script automates fan control using a [Shelly 2PM](https://bdc.shelly.cloud/
 <img src="schematic/shelly-2b-fan-control.png" alt="Fan control schematic" height="480" width="640"/>
 
 2. Enable scripting on your Shelly device.
-3. Upload the provided script to the **Shelly Script Editor**.
+3. Upload the script *shelly-2b-fan-control.js* to the **Shelly Script Editor**.
 4. Adjust the `NUM_OF_MINUTES` variable to define the fan shutdown delay.
 5. Save and run the script.
 
