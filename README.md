@@ -40,7 +40,7 @@ This script automates fan control using a [Shelly 2PM](https://bdc.shelly.cloud/
   - Check **"Run on startup"**
 
 ### Light switch:
-When the switch is closed, the light and the ventilation system (VMC) turn on. When the switch is open, the light turns off, but the ventilation remains active for 30 minutes.
+When the switch is closed, the light and the ventilation system (VMC) turn on. When the switch is open, the light turns off, but the ventilation remains active for `NUM_OF_MINUTES` minutes.
 
 ### Speed selector:
 - When positioned upwards, the slowest (quietest) speed is selected. Use this position for air circulation during the day.
