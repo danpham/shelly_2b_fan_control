@@ -15,7 +15,7 @@ This script automates fan control using a [Shelly 2PM](https://bdc.shelly.cloud/
 ## Installation
 1. Make the connections according to the following schematic to properly connect your Shelly 2PM device.
 
-![Description de l'image](shelly-2b-fan-control.png)
+<img src="schematic/shelly-2b-fan-control.png" alt="Fan control schematic" height="240" width="320"/>
 
 2. Enable scripting on your Shelly device.
 3. Upload the provided script to the **Shelly Script Editor**.
